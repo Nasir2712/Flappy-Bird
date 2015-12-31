@@ -1,3 +1,3 @@
 # Flappy-Bird
 
-The famous flappy bird gaming application in iOS using SpriteKit Framework and Swift.
+The famous flappy bird clone gaming application in iOS using SpriteKit Framework and Swift.
